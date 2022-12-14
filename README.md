@@ -1,6 +1,6 @@
-# $E2Coop$ 
+# $E^2Coop$ 
 
-Energy efficiency is critical to trajectory planning for UAV swarms in obstacle detection and avoidance (ODA). This chapter presents a new scheme $E^2Coop$ that tightly couples two conventional methods: Artificial Potential Field (APF) with Particle Swarm Planning (PSO) in trajectory planning for ODA. In $E^2Coop$, swarm members perform trajectory planning cooperatively to avoid collisions in an energy-efficient manner. $E^2Coop$ exploits the advantages of the active contour model \cite{snakes} in image processing for trajectory planning. Each swarm member plans its trajectories on the contours of APF to save energy and avoid collisions with obstacles. Swarm members that fall within the safeguard distance of each other plan their trajectories on different contours to avoid collisions. 
+Energy efficiency is critical to trajectory planning for UAV swarms in obstacle detection and avoidance (ODA). This chapter presents a new scheme $E^2Coop$ that tightly couples two conventional methods: Artificial Potential Field (APF) with Particle Swarm Planning (PSO) in trajectory planning for ODA. In $E^2Coop$, swarm members perform trajectory planning cooperatively to avoid collisions in an energy-efficient manner. $E^2Coop$ exploits the advantages of the Active Contour Model in image processing for trajectory planning. Each swarm member plans its trajectories on the contours of APF to save energy and avoid collisions with obstacles. Swarm members that fall within the safeguard distance of each other plan their trajectories on different contours to avoid collisions. 
 
 This work was published as 
 ```

@@ -13,3 +13,14 @@ This work was published as
   year={2021}
 }
 ```
+If you find this code helpful, please cite 
+```
+@misc{UAV-Swarm-e2coop, 
+  author = {Huang, Shuangyao}, 
+  title = {E2Coop: Energy Efficient and Cooperative Obstacle Detection and Avoidance for UAV Swarms}, 
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/sunningshore/E2Coop}},
+}
+```
